@@ -1,6 +1,6 @@
 # remoteconfig quickstart
 
-English | [中文](https://github.com/AppGalleryConnect/agc-demos/blob/main/iOS/RemoteConfig/README_ZH.md)
+English | [中文](https://developer.huawei.com/consumer/cn/doc/development/AppGallery-connect-Guides/agc-remoteconfig-introduction-0000001055149778)
 
 ## Table of Contents
 
